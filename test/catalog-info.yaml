@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: verification2
   annotations:
-    github.com/project-slug: McAmun/verification
+    github.com/project-slug: McAmun/verification/test
 spec:
   type: other
   lifecycle: unknown
