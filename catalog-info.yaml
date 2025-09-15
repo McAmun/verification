@@ -4,6 +4,9 @@ metadata:
   name: verification
   annotations:
     github.com/project-slug: McAmun/verification
+  name: test1
+  annotations:
+    github.com/project-slug: McAmun/verification    
 spec:
   type: other
   lifecycle: unknown
