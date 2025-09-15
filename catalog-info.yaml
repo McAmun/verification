@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: verification
+  annotations:
+    github.com/project-slug: McAmun/verification
+spec:
+  type: other
+  lifecycle: unknown
+  owner: pilot-team
